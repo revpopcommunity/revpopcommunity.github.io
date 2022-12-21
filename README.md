@@ -70,9 +70,9 @@ Here are some examples.
 
 [written by Tanjiro <3](https://twitter.com/tanjirocrypto/status/1426302195973115904)
 
- ## Decentralized clearing house
+## Decentralized clearing house
 
- #### First off, what is a clearing house?
+#### First off, what is a clearing house?
 
 Clearinghouses are designed to sit in between trades in order to guarantee payment in the event either counter party defaults, ensure trading desks are able to handle orders. They guarantee the enforcement of a trade and help create liquidity.
 
