@@ -1,3 +1,7 @@
 remote_theme: abhinavs/moonwalk
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
