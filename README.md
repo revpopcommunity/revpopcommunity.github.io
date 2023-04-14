@@ -8,6 +8,7 @@
 
 
 - [Website](https://revolutionpopuli.com/)
+- [Testnet](https://testnet.revolutionpopuli.com)
 - [Whitepaper](https://revolutionpopuli.com/wp-content/uploads/2021/04/Revolution_Populi_WP_2021_3_3.pdf)
 - [Coingecko](https://www.coingecko.com/en/coins/revolution-populi)
 - [Telegram](t.me/https://t.me/revpopofficial)
