@@ -12,6 +12,7 @@ Features
 - DApp Store
 - Built-in Atomic Swaps & interactions with Ethereum + Arbitrum
 - Create & manage your own assets on-chain. Tokenize assets easily.
+- Give freedom to the people. [A thesis on digital freedom](https://revolutionpopuli.com/wp-content/uploads/2019/07/Revolution-Populi-1.pdf)
 
 What to know
 
@@ -23,8 +24,8 @@ What to know
 - Project is being developed by [Axioma](https://www.axiomadev.com/), a blockchain development company based in Latvia
 - Communication on Twitter/Telegram has been paused indefinitely. Development of the chain itself hasn't changed. Expect communication on social media for big announcements.
 - Currently a ERC-20 token, will be swapped to RVP token when mainnet releases.
-- Confirmed [partnerships](https://github.com/revpopcommunity/revpopcommunity.github.io/edit/main/README.md#partnerships) with Chainlink and Polygon.
-- Stacked [team](https://github.com/revpopcommunity/revpopcommunity.github.io/edit/main/README.md#-the-team) of finance and marketing veterans.
+- Confirmed partnerships with [Chainlink](https://twitter.com/chainlink/status/1283040561642045441) and [Polygon (MATIC)](https://twitter.com/0xpolygon/status/1350153361060839424).
+- Stacked team of finance and marketing veterans.
 
 ## 🔗 Links
 
